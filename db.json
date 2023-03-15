@@ -3,26 +3,26 @@
     {
         "id": 1,
         "title": "Task 1",
-        "description": "Description for task 1",
+        "description": "Work Meeting",
         "location": "Valletta",
-        "date": "1st of Jan",
-        "time": "12.00"
+        "date": "20th of March",
+        "time": "12:30"
       },
       {
         "id": 2,
         "title": "Task 2",
-        "description": "Description for task 2",
-        "location": "Valletta",
-        "date": "1st of Jan",
-        "time": "12.00"
+        "description": "Buy Groceries",
+        "location": "Qormi",
+        "date": "25th of March",
+        "time": "9:30"
       },
       {
         "id": 3,
         "title": "Task 3",
-        "description": "Description for task 3",
-        "location": "Valletta",
-        "date": "1st of Jan",
-        "time": "12.00"
+        "description": "Football Match",
+        "location": "Attard",
+        "date": "19th of March",
+        "time": "20:30"
       }
     ]
 }
