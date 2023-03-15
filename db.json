@@ -23,6 +23,22 @@
         "location": "Attard",
         "date": "19th of March",
         "time": "20:30"
+      },
+      {
+        "id": 4,
+        "title": "Task 4",
+        "description": "School Project",
+        "location": "Paola",
+        "date": "3rd of April",
+        "time": "10:00"
+      },
+       {
+        "id": 5,
+        "title": "Task 5",
+        "description": "Car Service",
+        "location": "Qormi",
+        "date": "16th of April",
+        "time": "17:00"
       }
     ]
 }
